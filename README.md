@@ -1,6 +1,6 @@
 # NetworksLab
 
-Networks Lab done during V Semester
+Computer Networks Lab done during V Semester
 
 ## [TCP](https://github.com/MBadriNarayanan/NetworksLab/tree/main/TCP)
 
